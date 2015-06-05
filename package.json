@@ -1,0 +1,8 @@
+{
+  "name": "metalsmith-super-excerpt",
+  "description": "A Metalsmith plugin to add powerful excerpt functionality.",
+  "dependencies": {
+    "lodash.foreach": "^3.0.1",
+    "shortcode-parser": "0.0.1"
+  }
+}
