@@ -1,6 +1,20 @@
 {
   "name": "metalsmith-super-excerpt",
+  "version": "0.1.0",
   "description": "A Metalsmith plugin to add powerful excerpt functionality.",
+  "main": "lib/index.js",
+  "keywords": [
+    "metalsmith",
+    "metalsmith-plugin",
+    "excerpt",
+    "shortcode"
+  ],
+  "author": "David McCuskey",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmccuskey/metalsmith-super-excerpt.git"
+  },
   "dependencies": {
     "lodash.foreach": "^3.0.1",
     "shortcode-parser": "0.0.1"
